@@ -1,0 +1,1720 @@
+2013/03/23 15:29:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/form.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/screen.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/print.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.js
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/main.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.yiiactiveform.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.yiiactiveform.js
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/screen.css
+HTTP_REFERER=http://localhost/group1/site/contact
+---
+2013/03/23 15:29:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/form.css
+HTTP_REFERER=http://localhost/group1/site/contact
+---
+2013/03/23 15:29:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.yiiactiveform.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.yiiactiveform.js
+HTTP_REFERER=http://localhost/group1/site/contact
+---
+2013/03/23 15:29:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.js
+HTTP_REFERER=http://localhost/group1/site/contact
+---
+2013/03/23 15:29:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/print.css
+HTTP_REFERER=http://localhost/group1/site/contact
+---
+2013/03/23 15:29:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/main.css
+HTTP_REFERER=http://localhost/group1/site/contact
+---
+2013/03/23 15:29:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.yiiactiveform.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.yiiactiveform.js
+HTTP_REFERER=http://localhost/group1/site/contact
+---
+2013/03/23 15:29:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/main.css
+HTTP_REFERER=http://localhost/group1/index.php/site/index
+---
+2013/03/23 15:29:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/screen.css
+HTTP_REFERER=http://localhost/group1/index.php/site/index
+---
+2013/03/23 15:29:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/print.css
+HTTP_REFERER=http://localhost/group1/index.php/site/index
+---
+2013/03/23 15:29:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/form.css
+HTTP_REFERER=http://localhost/group1/index.php/site/index
+---
+2013/03/23 15:29:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/print.css
+HTTP_REFERER=http://localhost/group1/index.php/site/page?view=about
+---
+2013/03/23 15:29:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/screen.css
+HTTP_REFERER=http://localhost/group1/index.php/site/page?view=about
+---
+2013/03/23 15:29:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/form.css
+HTTP_REFERER=http://localhost/group1/index.php/site/page?view=about
+---
+2013/03/23 15:29:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/main.css
+HTTP_REFERER=http://localhost/group1/index.php/site/page?view=about
+---
+2013/03/23 15:29:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/screen.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/form.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/print.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/main.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.js
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.yiiactiveform.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.yiiactiveform.js
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:29:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/screen.css
+HTTP_REFERER=http://localhost/group1/index.php/site/login
+---
+2013/03/23 15:29:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/print.css
+HTTP_REFERER=http://localhost/group1/index.php/site/login
+---
+2013/03/23 15:29:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/form.css
+HTTP_REFERER=http://localhost/group1/index.php/site/login
+---
+2013/03/23 15:29:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.js
+HTTP_REFERER=http://localhost/group1/index.php/site/login
+---
+2013/03/23 15:29:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/main.css
+HTTP_REFERER=http://localhost/group1/index.php/site/login
+---
+2013/03/23 15:29:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.yiiactiveform.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.yiiactiveform.js
+HTTP_REFERER=http://localhost/group1/index.php/site/login
+---
+2013/03/23 15:30:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/print.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:30:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/form.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:30:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.js
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:30:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/57af4aa/jquery.yiiactiveform.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/57af4aa/...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/assets/57af4aa/jquery.yiiactiveform.js
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:30:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/screen.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:30:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/main.css
+HTTP_REFERER=http://localhost/group1/index.php/site/contact
+---
+2013/03/23 15:30:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/form.css
+HTTP_REFERER=http://localhost/group1/index.php/site/page?view=about
+---
+2013/03/23 15:30:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/print.css
+HTTP_REFERER=http://localhost/group1/index.php/site/page?view=about
+---
+2013/03/23 15:30:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/screen.css
+HTTP_REFERER=http://localhost/group1/index.php/site/page?view=about
+---
+2013/03/23 15:30:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/main.css
+HTTP_REFERER=http://localhost/group1/index.php/site/page?view=about
+---
+2013/03/23 15:30:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/screen.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/screen.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/screen.css
+HTTP_REFERER=http://localhost/group1/index.php/site/index
+---
+2013/03/23 15:30:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/main.css
+HTTP_REFERER=http://localhost/group1/index.php/site/index
+---
+2013/03/23 15:30:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/form.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/form.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/form.css
+HTTP_REFERER=http://localhost/group1/index.php/site/index
+---
+2013/03/23 15:30:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/print.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/print.css')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/css/print.css
+HTTP_REFERER=http://localhost/group1/index.php/site/index
+---
+2013/03/23 15:31:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "varmit".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('varmit')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('varmit')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/varmit')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/index.php/site/varmit
+---
+2013/03/23 16:07:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "varmit".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('varmit')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/varmit
+---
+2013/03/23 16:08:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "varmit".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('varmit')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/varmit
+---
+2013/03/23 16:49:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/gii
+---
+2013/03/23 18:56:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "opportunities/create".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('opportunities/c...')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/opportunities/create
+---
+2013/03/23 19:30:23 [error] [php] Undefined variable: dataProvider (C:\xampp\htdocs\group1\protected\views\contacts\index.php:18)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): ContactsController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): ContactsController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\ContactsController.php(7): ContactsController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): ContactsController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\CController.php(286): ContactsController->runAction()
+#6 C:\xampp\framework\web\CController.php(265): ContactsController->runActionWithFilters()
+#7 C:\xampp\framework\web\CWebApplication.php(282): ContactsController->run()
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/contacts
+in C:\xampp\htdocs\group1\protected\views\contacts\index.php (18)
+in C:\xampp\htdocs\group1\protected\controllers\ContactsController.php (7)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/23 19:42:23 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\site\index.php:28)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\views\site\index.php (28)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/23 19:43:37 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\site\index.php:28)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\views\site\index.php (28)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/23 19:43:42 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\site\index.php:28)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\views\site\index.php (28)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/23 19:43:49 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\site\index.php:28)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(32): SiteController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\views\site\index.php (28)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/23 19:47:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('login')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('login')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/login
+HTTP_REFERER=http://localhost/group1/
+---
+2013/03/23 19:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "contact".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('contact')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('contact')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/contact
+HTTP_REFERER=http://localhost/group1/site/login
+---
+2013/03/23 19:47:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested view "about" was not found.' in C:\xampp\framework\web\actions\CViewAction.php:112
+Stack trace:
+#0 C:\xampp\framework\web\actions\CViewAction.php(123): CViewAction->resolveView('about')
+#1 C:\xampp\framework\web\actions\CAction.php(76): CViewAction->run()
+#2 C:\xampp\framework\web\CController.php(308): CAction->runWithParams(Array)
+#3 C:\xampp\framework\web\CController.php(286): CController->runAction(Object(CViewAction))
+#4 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CViewAction), Array)
+#5 C:\xampp\framework\web\CWebApplication.php(282): CController->run('page')
+#6 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/page')
+#7 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#8 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/group1/site/page?view=about
+HTTP_REFERER=http://localhost/group1/site/contact
+---
+2013/03/23 19:50:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('login')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('login')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/login
+HTTP_REFERER=http://localhost/group1/site/index
+---
+2013/03/23 19:50:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('login')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('login')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/login
+HTTP_REFERER=http://localhost/group1/site/login
+---
+2013/03/23 20:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('login')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('login')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/login
+HTTP_REFERER=http://localhost/group1/opportunity
+---
+2013/03/23 20:11:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('login')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('login')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/login
+HTTP_REFERER=http://localhost/group1/opportunity
+---
+2013/03/23 20:32:35 [error] [php] Undefined variable: dataProvider (C:\xampp\htdocs\group1\protected\views\contacts\index.php:18)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): ContactsController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): ContactsController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\ContactsController.php(7): ContactsController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): ContactsController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\CController.php(286): ContactsController->runAction()
+#6 C:\xampp\framework\web\CController.php(265): ContactsController->runActionWithFilters()
+#7 C:\xampp\framework\web\CWebApplication.php(282): ContactsController->run()
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/contacts
+in C:\xampp\htdocs\group1\protected\views\contacts\index.php (18)
+in C:\xampp\htdocs\group1\protected\controllers\ContactsController.php (7)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/23 20:32:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contact".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('contact')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/contact
+---
+2013/03/23 20:32:53 [error] [php] Undefined variable: dataProvider (C:\xampp\htdocs\group1\protected\views\contacts\index.php:18)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): ContactsController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): ContactsController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\ContactsController.php(7): ContactsController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): ContactsController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\CController.php(286): ContactsController->runAction()
+#6 C:\xampp\framework\web\CController.php(265): ContactsController->runActionWithFilters()
+#7 C:\xampp\framework\web\CWebApplication.php(282): ContactsController->run()
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/contacts
+in C:\xampp\htdocs\group1\protected\views\contacts\index.php (18)
+in C:\xampp\htdocs\group1\protected\controllers\ContactsController.php (7)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/23 20:38:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "organization".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('organization')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/organization
+---
+2013/03/23 20:55:35 [error] [php] Undefined variable: dataProvider (C:\xampp\htdocs\group1\protected\views\contacts\index.php:18)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): ContactsController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): ContactsController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\ContactsController.php(7): ContactsController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): ContactsController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\CController.php(286): ContactsController->runAction()
+#6 C:\xampp\framework\web\CController.php(265): ContactsController->runActionWithFilters()
+#7 C:\xampp\framework\web\CWebApplication.php(282): ContactsController->run()
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/contacts
+in C:\xampp\htdocs\group1\protected\views\contacts\index.php (18)
+in C:\xampp\htdocs\group1\protected\controllers\ContactsController.php (7)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/23 20:55:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contact".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('contact')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/contact
+---
+2013/03/23 20:56:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('contacts')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/contacts
+HTTP_REFERER=http://localhost/group1/gii/controller
+---
+2013/03/23 20:56:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contact".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('contact')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/contact
+---
+2013/03/23 20:56:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('contacts')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/contacts
+---
+2013/03/23 20:59:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('contacts')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/contacts
+---
+2013/03/24 14:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('login')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('login')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/login
+HTTP_REFERER=http://localhost/group1/organizations
+---
+2013/03/24 14:39:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('login')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('login')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/login
+HTTP_REFERER=http://localhost/group1/
+---
+2013/03/24 15:30:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "publisher".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('publisher')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/publisher
+HTTP_REFERER=http://localhost/group1/organizations
+---
+2013/03/24 16:26:13 [error] [php] Missing argument 3 for CHtml::listData(), called in C:\xampp\htdocs\group1\protected\models\Organizations.php on line 41 and defined (C:\xampp\framework\web\helpers\CHtml.php:1836)
+Stack trace:
+#0 C:\xampp\framework\web\CBaseController.php(126): require()
+#1 C:\xampp\framework\web\CBaseController.php(95): OpportunityController->renderInternal()
+#2 C:\xampp\framework\web\CController.php(869): OpportunityController->renderFile()
+#3 C:\xampp\htdocs\group1\protected\views\opportunity\create.php(18): OpportunityController->renderPartial()
+#4 C:\xampp\framework\web\CBaseController.php(126): require()
+#5 C:\xampp\framework\web\CBaseController.php(95): OpportunityController->renderInternal()
+#6 C:\xampp\framework\web\CController.php(869): OpportunityController->renderFile()
+#7 C:\xampp\framework\web\CController.php(782): OpportunityController->renderPartial()
+#8 C:\xampp\htdocs\group1\protected\controllers\OpportunityController.php(79): OpportunityController->render()
+#9 C:\xampp\framework\web\actions\CInlineAction.php(49): OpportunityController->actionCreate()
+#10 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#11 C:\xampp\framework\web\filters\CFilterChain.php(133): OpportunityController->runAction()
+#12 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#13 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#14 C:\xampp\framework\web\filters\CInlineFilter.php(58): OpportunityController->filterAccessControl()
+#15 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#16 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#17 C:\xampp\framework\web\CController.php(265): OpportunityController->runActionWithFilters()
+#18 C:\xampp\framework\web\CWebApplication.php(282): OpportunityController->run()
+#19 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#20 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#21 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/opportunity/create
+in C:\xampp\htdocs\group1\protected\models\Organizations.php (41)
+in C:\xampp\htdocs\group1\protected\views\opportunity\_form.php (26)
+in C:\xampp\htdocs\group1\protected\views\opportunity\create.php (18)
+2013/03/24 16:40:48 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`servlearn`.`organizations`, CONSTRAINT `organizations_ibfk_1` FOREIGN KEY (`orgID`) REFERENCES `contacts` (`nameID`)). The SQL statement executed was: INSERT INTO `organizations` (`orgID`, `orgName`, `address`, `city1`, `state1`, `zip1`, `website`, `orgOverview`, `logistics`, `insurance`, `procTime`, `details1`, `availability`, `background`, `details2`, `drugTest`, `other`, `comments`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11, :yp12, :yp13, :yp14, :yp15, :yp16, :yp17).
+in C:\xampp\htdocs\group1\protected\controllers\OrganizationsController.php (73)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/24 16:40:48 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`servlearn`.`organizations`, CONSTRAINT `organizations_ibfk_1` FOREIGN KEY (`orgID`) REFERENCES `contacts` (`nameID`)). The SQL statement executed was: INSERT INTO `organizations` (`orgID`, `orgName`, `address`, `city1`, `state1`, `zip1`, `website`, `orgOverview`, `logistics`, `insurance`, `procTime`, `details1`, `availability`, `background`, `details2`, `drugTest`, `other`, `comments`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11, :yp12, :yp13, :yp14, :yp15, :yp16, :yp17)' in C:\xampp\framework\db\CDbCommand.php:357
+Stack trace:
+#0 C:\xampp\framework\db\ar\CActiveRecord.php(1023): CDbCommand->execute()
+#1 C:\xampp\framework\db\ar\CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\group1\protected\controllers\OrganizationsController.php(73): CActiveRecord->save()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): OrganizationsController->actionCreate()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('organizations/c...')
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/group1/organizations/create
+HTTP_REFERER=http://localhost/group1/organizations/create
+---
+2013/03/24 17:05:59 [error] [php] Object of class OrganizationsController could not be converted to string (C:\xampp\htdocs\group1\protected\views\organizations\_form.php:92)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): OrganizationsController->renderFile()
+#1 C:\xampp\htdocs\group1\protected\views\organizations\create.php(18): OrganizationsController->renderPartial()
+#2 C:\xampp\framework\web\CBaseController.php(126): require()
+#3 C:\xampp\framework\web\CBaseController.php(95): OrganizationsController->renderInternal()
+#4 C:\xampp\framework\web\CController.php(869): OrganizationsController->renderFile()
+#5 C:\xampp\framework\web\CController.php(782): OrganizationsController->renderPartial()
+#6 C:\xampp\htdocs\group1\protected\controllers\OrganizationsController.php(79): OrganizationsController->render()
+#7 C:\xampp\framework\web\actions\CInlineAction.php(49): OrganizationsController->actionCreate()
+#8 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(133): OrganizationsController->runAction()
+#10 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 C:\xampp\framework\web\filters\CInlineFilter.php(58): OrganizationsController->filterAccessControl()
+#13 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\framework\web\CController.php(265): OrganizationsController->runActionWithFilters()
+#16 C:\xampp\framework\web\CWebApplication.php(282): OrganizationsController->run()
+#17 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/organizations/create
+in C:\xampp\htdocs\group1\protected\views\organizations\_form.php (92)
+in C:\xampp\htdocs\group1\protected\views\organizations\create.php (18)
+in C:\xampp\htdocs\group1\protected\controllers\OrganizationsController.php (79)
+2013/03/24 18:43:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'servlearn.user' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `user`.
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/24 20:40:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "site".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('site')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('site')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/site')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/site
+HTTP_REFERER=http://localhost/group1/
+---
+2013/03/24 20:50:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contact".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('contact')
+#1 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/group1/contact
+---
+2013/03/24 20:51:04 [error] [php] include(Person.php): failed to open stream: No such file or directory (C:\xampp\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\controllers\UserController.php(66): spl_autoload_call()
+#1 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionCreate()
+#2 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#4 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#7 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#10 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/create
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (66)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/24 20:55:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('login')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('login')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/login
+HTTP_REFERER=http://localhost/group1/user/index
+---
+2013/03/24 20:56:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'servlearn.person' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `Person`.
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (66)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/24 20:56:06 [error] [exception.CDbException] exception 'CDbException' with message 'The table "Person" for active record class "Person" cannot be found in the database.' in C:\xampp\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Person))
+#1 C:\xampp\framework\db\ar\CActiveRecord.php(402): CActiveRecord::model('Person')
+#2 C:\xampp\framework\db\ar\CActiveRecord.php(77): CActiveRecord->getMetaData()
+#3 C:\xampp\htdocs\group1\protected\controllers\UserController.php(66): CActiveRecord->__construct()
+#4 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionCreate()
+#5 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#8 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#12 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 C:\xampp\framework\web\CWebApplication.php(282): CController->run('create')
+#14 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('user/create')
+#15 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/group1/user/create
+HTTP_REFERER=http://localhost/group1/
+---
+2013/03/24 21:10:26 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'servlearn.person' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `person`.
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (66)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/24 21:10:26 [error] [exception.CDbException] exception 'CDbException' with message 'The table "person" for active record class "Person" cannot be found in the database.' in C:\xampp\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Person))
+#1 C:\xampp\framework\db\ar\CActiveRecord.php(402): CActiveRecord::model('Person')
+#2 C:\xampp\framework\db\ar\CActiveRecord.php(77): CActiveRecord->getMetaData()
+#3 C:\xampp\htdocs\group1\protected\controllers\UserController.php(66): CActiveRecord->__construct()
+#4 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionCreate()
+#5 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#8 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#12 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 C:\xampp\framework\web\CWebApplication.php(282): CController->run('create')
+#14 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('user/create')
+#15 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/group1/user/create
+HTTP_REFERER=http://localhost/group1/
+---
+2013/03/24 21:10:38 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'servlearn.person' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `person`.
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (66)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/24 21:10:38 [error] [exception.CDbException] exception 'CDbException' with message 'The table "person" for active record class "Person" cannot be found in the database.' in C:\xampp\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Person))
+#1 C:\xampp\framework\db\ar\CActiveRecord.php(402): CActiveRecord::model('Person')
+#2 C:\xampp\framework\db\ar\CActiveRecord.php(77): CActiveRecord->getMetaData()
+#3 C:\xampp\htdocs\group1\protected\controllers\UserController.php(66): CActiveRecord->__construct()
+#4 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionCreate()
+#5 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#8 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#12 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 C:\xampp\framework\web\CWebApplication.php(282): CController->run('create')
+#14 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('user/create')
+#15 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/group1/user/create
+HTTP_REFERER=http://localhost/group1/
+---
+2013/03/24 21:52:19 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\admin.php:39)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(150): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionAdmin()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/admin
+in C:\xampp\htdocs\group1\protected\views\user\admin.php (39)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (150)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/24 23:36:22 [error] [php] Undefined variable: user (C:\xampp\htdocs\group1\protected\views\user\_form.php:16)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\htdocs\group1\protected\views\user\create.php(18): UserController->renderPartial()
+#2 C:\xampp\framework\web\CBaseController.php(126): require()
+#3 C:\xampp\framework\web\CBaseController.php(95): UserController->renderInternal()
+#4 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#5 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#6 C:\xampp\htdocs\group1\protected\controllers\UserController.php(79): UserController->render()
+#7 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionCreate()
+#8 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#10 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#13 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#16 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#17 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/create
+in C:\xampp\htdocs\group1\protected\views\user\_form.php (16)
+in C:\xampp\htdocs\group1\protected\views\user\create.php (18)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (79)
+2013/03/24 23:48:18 [error] [php] Undefined variable: person (C:\xampp\htdocs\group1\protected\views\user\create.php:18)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(80): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionCreate()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/create
+in C:\xampp\htdocs\group1\protected\views\user\create.php (18)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (80)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/24 23:50:47 [error] [php] Undefined variable: person (C:\xampp\htdocs\group1\protected\views\user\create.php:18)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(80): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionCreate()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/create
+in C:\xampp\htdocs\group1\protected\views\user\create.php (18)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (80)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 00:12:21 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\view.php:7)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(56): UserController->render()
+#3 unknown(0): UserController->actionView()
+#4 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#5 C:\xampp\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#8 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#11 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#14 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#15 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/1
+in C:\xampp\htdocs\group1\protected\views\user\view.php (7)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (56)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 00:14:36 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\admin.php:39)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(148): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionAdmin()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/admin
+in C:\xampp\htdocs\group1\protected\views\user\admin.php (39)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (148)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 00:15:05 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\admin.php:39)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(148): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionAdmin()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/admin
+in C:\xampp\htdocs\group1\protected\views\user\admin.php (39)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (148)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 00:21:50 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\admin.php:39)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(150): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionAdmin()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/admin
+in C:\xampp\htdocs\group1\protected\views\user\admin.php (39)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (150)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 00:25:37 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\admin.php:39)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(150): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionAdmin()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/admin
+in C:\xampp\htdocs\group1\protected\views\user\admin.php (39)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (150)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 00:25:44 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\admin.php:39)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(150): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionAdmin()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/admin
+in C:\xampp\htdocs\group1\protected\views\user\admin.php (39)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (150)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 00:26:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\group1\protected\controllers\UserController.php:166
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\controllers\UserController.php(55): UserController->loadModel('4')
+#1 [internal function]: UserController->actionView('4')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(UserController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(UserController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\framework\web\CWebApplication.php(282): CController->run('view')
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('user/view')
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/group1/user/4
+HTTP_REFERER=http://localhost/group1/user/create
+---
+2013/03/25 00:46:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "site".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('site')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('site')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/site')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/site
+HTTP_REFERER=http://localhost/group1/
+---
+2013/03/25 00:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "site".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('site')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('site')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/site')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/site
+HTTP_REFERER=http://localhost/group1/site/site
+---
+2013/03/25 01:38:21 [error] [exception.CException] exception 'CException' with message 'UserController cannot find the requested view "admin".' in C:\xampp\framework\web\CController.php:878
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#1 C:\xampp\htdocs\group1\protected\controllers\UserController.php(138): CController->render('admin', Array)
+#2 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionIndex()
+#3 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#12 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('user/index')
+#13 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/group1/user/index
+HTTP_REFERER=http://localhost/group1/user/create
+---
+2013/03/25 01:43:40 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\index.php:39)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(137): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/index
+in C:\xampp\htdocs\group1\protected\views\user\index.php (39)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (137)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 01:43:48 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\index.php:39)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(137): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/index
+in C:\xampp\htdocs\group1\protected\views\user\index.php (39)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (137)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 01:44:10 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\index.php:39)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(137): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/index
+in C:\xampp\htdocs\group1\protected\views\user\index.php (39)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (137)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 01:44:56 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\_search.php:15)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\htdocs\group1\protected\views\user\index.php(40): UserController->renderPartial()
+#2 C:\xampp\framework\web\CBaseController.php(126): require()
+#3 C:\xampp\framework\web\CBaseController.php(95): UserController->renderInternal()
+#4 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#5 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#6 C:\xampp\htdocs\group1\protected\controllers\UserController.php(137): UserController->render()
+#7 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionIndex()
+#8 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#10 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#13 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#16 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#17 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/index
+in C:\xampp\htdocs\group1\protected\views\user\_search.php (15)
+in C:\xampp\htdocs\group1\protected\views\user\index.php (40)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (137)
+2013/03/25 01:46:34 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\index.php:45)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(137): UserController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#12 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/index
+in C:\xampp\htdocs\group1\protected\views\user\index.php (45)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (137)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 02:12:24 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\xampp\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 C:\xampp\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 C:\xampp\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('user/delete')
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/group1/user/delete/1?ajax=user-grid
+HTTP_REFERER=http://localhost/group1/user/index
+---
+2013/03/25 02:26:26 [error] [php] Undefined variable: person (C:\xampp\htdocs\group1\protected\views\user\_search.php:21)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\htdocs\group1\protected\views\user\index.php(40): UserController->renderPartial()
+#2 C:\xampp\framework\web\CBaseController.php(126): require()
+#3 C:\xampp\framework\web\CBaseController.php(95): UserController->renderInternal()
+#4 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#5 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#6 C:\xampp\htdocs\group1\protected\controllers\UserController.php(137): UserController->render()
+#7 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionIndex()
+#8 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#10 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#13 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#16 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#17 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/index
+in C:\xampp\htdocs\group1\protected\views\user\_search.php (21)
+in C:\xampp\htdocs\group1\protected\views\user\index.php (40)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (137)
+2013/03/25 02:27:03 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\_search.php:21)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\htdocs\group1\protected\views\user\index.php(40): UserController->renderPartial()
+#2 C:\xampp\framework\web\CBaseController.php(126): require()
+#3 C:\xampp\framework\web\CBaseController.php(95): UserController->renderInternal()
+#4 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#5 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#6 C:\xampp\htdocs\group1\protected\controllers\UserController.php(137): UserController->render()
+#7 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionIndex()
+#8 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#10 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#13 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#16 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#17 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/index
+in C:\xampp\htdocs\group1\protected\views\user\_search.php (21)
+in C:\xampp\htdocs\group1\protected\views\user\index.php (40)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (137)
+2013/03/25 02:34:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "site".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('site')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('site')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/site')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/site
+HTTP_REFERER=http://localhost/group1/
+---
+2013/03/25 02:34:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "site".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('site')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('site')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/site')
+#3 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/group1/site/site
+HTTP_REFERER=http://localhost/group1/site/site
+---
+2013/03/25 22:42:49 [error] [php] Undefined variable: model (C:\xampp\htdocs\group1\protected\views\user\view.php:27)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): UserController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): UserController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\UserController.php(53): UserController->render()
+#3 unknown(0): UserController->actionView()
+#4 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#5 C:\xampp\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#8 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#11 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#14 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#15 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/5
+in C:\xampp\htdocs\group1\protected\views\user\view.php (27)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (53)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 22:58:22 [error] [php] Undefined variable: user (C:\xampp\htdocs\group1\protected\views\site\index.php:28)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(63): SiteController->render()
+#3 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/site/index
+in C:\xampp\htdocs\group1\protected\views\site\index.php (28)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (63)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 22:59:31 [error] [php] include(aUser.php): failed to open stream: No such file or directory (C:\xampp\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\components\UserIdentity.php(19): spl_autoload_call()
+#1 C:\xampp\htdocs\group1\protected\models\IndexForm.php(52): UserIdentity->authenticate()
+#2 C:\xampp\framework\validators\CInlineValidator.php(42): IndexForm->authenticate()
+#3 C:\xampp\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#4 C:\xampp\framework\base\CModel.php(159): CInlineValidator->validate()
+#5 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(59): IndexForm->validate()
+#6 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#7 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#9 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#10 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\components\UserIdentity.php (19)
+in C:\xampp\htdocs\group1\protected\models\IndexForm.php (52)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (59)
+2013/03/25 23:00:18 [error] [php] include(aUser.php): failed to open stream: No such file or directory (C:\xampp\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\components\UserIdentity.php(19): spl_autoload_call()
+#1 C:\xampp\htdocs\group1\protected\models\IndexForm.php(52): UserIdentity->authenticate()
+#2 C:\xampp\framework\validators\CInlineValidator.php(42): IndexForm->authenticate()
+#3 C:\xampp\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#4 C:\xampp\framework\base\CModel.php(159): CInlineValidator->validate()
+#5 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(59): IndexForm->validate()
+#6 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#7 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#9 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#10 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\components\UserIdentity.php (19)
+in C:\xampp\htdocs\group1\protected\models\IndexForm.php (52)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (59)
+2013/03/25 23:01:36 [error] [php] include(aUser.php): failed to open stream: No such file or directory (C:\xampp\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\components\UserIdentity.php(19): spl_autoload_call()
+#1 C:\xampp\htdocs\group1\protected\models\IndexForm.php(52): UserIdentity->authenticate()
+#2 C:\xampp\framework\validators\CInlineValidator.php(42): IndexForm->authenticate()
+#3 C:\xampp\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#4 C:\xampp\framework\base\CModel.php(159): CInlineValidator->validate()
+#5 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(59): IndexForm->validate()
+#6 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#7 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#9 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#10 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\components\UserIdentity.php (19)
+in C:\xampp\htdocs\group1\protected\models\IndexForm.php (52)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (59)
+2013/03/25 23:01:51 [error] [php] include(aUser.php): failed to open stream: No such file or directory (C:\xampp\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\components\UserIdentity.php(19): spl_autoload_call()
+#1 C:\xampp\htdocs\group1\protected\models\IndexForm.php(52): UserIdentity->authenticate()
+#2 C:\xampp\framework\validators\CInlineValidator.php(42): IndexForm->authenticate()
+#3 C:\xampp\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#4 C:\xampp\framework\base\CModel.php(159): CInlineValidator->validate()
+#5 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(59): IndexForm->validate()
+#6 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#7 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#9 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#10 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\components\UserIdentity.php (19)
+in C:\xampp\htdocs\group1\protected\models\IndexForm.php (52)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (59)
+2013/03/25 23:07:57 [error] [php] include(aUser.php): failed to open stream: No such file or directory (C:\xampp\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\components\UserIdentity.php(19): spl_autoload_call()
+#1 C:\xampp\htdocs\group1\protected\models\IndexForm.php(52): UserIdentity->authenticate()
+#2 C:\xampp\framework\validators\CInlineValidator.php(42): IndexForm->authenticate()
+#3 C:\xampp\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#4 C:\xampp\framework\base\CModel.php(159): CInlineValidator->validate()
+#5 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(59): IndexForm->validate()
+#6 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#7 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#9 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#10 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\components\UserIdentity.php (19)
+in C:\xampp\htdocs\group1\protected\models\IndexForm.php (52)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (59)
+2013/03/25 23:11:20 [error] [php] include(aUser.php): failed to open stream: No such file or directory (C:\xampp\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\components\UserIdentity.php(19): spl_autoload_call()
+#1 C:\xampp\htdocs\group1\protected\models\IndexForm.php(52): UserIdentity->authenticate()
+#2 C:\xampp\framework\validators\CInlineValidator.php(42): IndexForm->authenticate()
+#3 C:\xampp\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#4 C:\xampp\framework\base\CModel.php(159): CInlineValidator->validate()
+#5 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(59): IndexForm->validate()
+#6 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#7 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 C:\xampp\framework\web\CController.php(286): SiteController->runAction()
+#9 C:\xampp\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#10 C:\xampp\framework\web\CWebApplication.php(282): SiteController->run()
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/
+in C:\xampp\htdocs\group1\protected\components\UserIdentity.php (19)
+in C:\xampp\htdocs\group1\protected\models\IndexForm.php (52)
+in C:\xampp\htdocs\group1\protected\controllers\SiteController.php (59)
+2013/03/25 23:35:55 [error] [exception.CException] exception 'CException' with message 'User and its behaviors do not have a method or closure named "check".' in C:\xampp\framework\base\CComponent.php:265
+Stack trace:
+#0 C:\xampp\framework\db\ar\CActiveRecord.php(225): CComponent->__call('check', Array)
+#1 C:\xampp\htdocs\group1\protected\components\UserIdentity.php(38): CActiveRecord->__call('check', Array)
+#2 C:\xampp\htdocs\group1\protected\components\UserIdentity.php(38): User->check('admin')
+#3 C:\xampp\htdocs\group1\protected\models\IndexForm.php(52): UserIdentity->authenticate()
+#4 C:\xampp\framework\validators\CInlineValidator.php(42): IndexForm->authenticate('password', Array)
+#5 C:\xampp\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute(Object(IndexForm), 'password')
+#6 C:\xampp\framework\base\CModel.php(159): CValidator->validate(Object(IndexForm), NULL)
+#7 C:\xampp\htdocs\group1\protected\controllers\SiteController.php(59): CModel->validate()
+#8 C:\xampp\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#9 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 C:\xampp\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\framework\web\CWebApplication.php(282): CController->run('')
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#14 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/group1/index.php
+HTTP_REFERER=http://localhost/group1/index.php
+---
+2013/03/25 23:46:50 [error] [php] Use of undefined constant password - assumed 'password' (C:\xampp\htdocs\group1\protected\models\User.php:45)
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\controllers\UserController.php(74): User->save()
+#1 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionCreate()
+#2 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#4 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#7 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#10 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/create
+in C:\xampp\htdocs\group1\protected\models\User.php (45)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (74)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 23:47:32 [error] [php] Use of undefined constant password - assumed 'password' (C:\xampp\htdocs\group1\protected\models\User.php:45)
+Stack trace:
+#0 C:\xampp\htdocs\group1\protected\controllers\UserController.php(74): User->save()
+#1 C:\xampp\framework\web\actions\CInlineAction.php(49): UserController->actionCreate()
+#2 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\framework\web\filters\CFilterChain.php(133): UserController->runAction()
+#4 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\framework\web\filters\CInlineFilter.php(58): UserController->filterAccessControl()
+#7 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\framework\web\CController.php(265): UserController->runActionWithFilters()
+#10 C:\xampp\framework\web\CWebApplication.php(282): UserController->run()
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\group1\index.php(13): CWebApplication->run()
+REQUEST_URI=/group1/user/create
+in C:\xampp\htdocs\group1\protected\models\User.php (45)
+in C:\xampp\htdocs\group1\protected\controllers\UserController.php (74)
+in C:\xampp\htdocs\group1\index.php (13)
+2013/03/25 23:55:56 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\xampp\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 C:\xampp\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 C:\xampp\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#8 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('user/index')
+#9 C:\xampp\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\group1\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/group1/user/index
+HTTP_REFERER=http://localhost/group1/
+---
